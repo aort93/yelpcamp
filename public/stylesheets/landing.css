@@ -13,6 +13,10 @@ body {
   color: #fff;
 }
 
+#button-color {
+  background-color: pink;
+}
+
 .slideshow { 
   position: fixed;
   width: 100%;
